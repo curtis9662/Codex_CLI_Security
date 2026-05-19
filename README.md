@@ -8,7 +8,7 @@ Codex_CLI_Security Detection in Sec msft
 
 ---
 
-## 📋 Executive Briefing
+## 📋 Engineering Briefing
 
 Recent security research has identified a supply chain attack vector within the **Codex CLI** ecosystem (e.g., CVE-2025-61260). The vulnerability involves malicious Model Context Protocol (MCP) configuration files that can lead to arbitrary command injection and code execution. 
 
