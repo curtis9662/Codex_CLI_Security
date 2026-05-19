@@ -2,7 +2,7 @@
 Codex_CLI_Security Detection in Sec msft 
 
 
-markdown_content = """# 🛡️ Codex CLI Security Overview & Briefing
+# 🛡️ Codex CLI Security Overview & Briefing
 
 **Developed by:** [https://curtis9662.github.io/](https://curtis9662.github.io/)
 
